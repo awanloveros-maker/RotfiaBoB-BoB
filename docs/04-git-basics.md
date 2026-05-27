@@ -9,7 +9,7 @@
 
 ## ทำไมต้องใช้ Git?
 
-ลองนึกภาพคุณกำลัง train AI:
+ลองนึกภาพว่าทีมกำลัง train AI:
 - Model V1 → accuracy 70%
 - ลองแก้ → accuracy เหลือ 50% 😱
 - "อยาก revert กลับไป V1!"
@@ -19,7 +19,7 @@
 - ✅ ย้อนกลับไป state ก่อนหน้าได้
 - ✅ ทำงานร่วมกันหลายคนโดยไม่ทับโค้ดกัน
 
-**GitHub** คือ cloud ที่เก็บ Git repository ของคุณ
+**GitHub** คือ cloud ที่เก็บ Git repository ของทีม
 
 ---
 
@@ -252,7 +252,7 @@ git blame <file>
 
 ---
 
-## 🎯 สิ่งที่ทีมคุณต้องทำใน Workshop
+## 🎯 สิ่งที่ทีมต้องทำใน Workshop
 
 - [ ] ทุกคนมี GitHub account
 - [ ] สร้าง repo ทีมจาก template

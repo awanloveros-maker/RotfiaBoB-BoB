@@ -178,7 +178,7 @@ git push
 
 ## 💡 Tips สำหรับ Day 2/3
 
-1. **Pitch Day 3 = ทีมคุณต้องอธิบายเอง** — เริ่มซ้อมตั้งแต่ Day 2 ว่าใครจะพูดส่วนไหน
+1. **Pitch Day 3 = ทีมต้องอธิบายเอง** — เริ่มซ้อมตั้งแต่ Day 2 ว่าใครจะพูดส่วนไหน
 2. **Demo Day 3 = ต้อง live** — เตรียม backup ในกรณี internet/hardware พัง
 3. **Document ทุก iteration** ใน GitHub — commit ทุก hour
 4. **Token = constraint ที่สอนการตัดสินใจ** — เลือกสิ่งจำเป็น

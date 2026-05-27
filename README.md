@@ -17,7 +17,7 @@
 Workshop 6 ชั่วโมง (09:00–17:00) ที่สอนให้นักเรียน
 สร้าง Edge AI prototype ด้วย Arduino UNO Q + Modulino + Edge Impulse จบใน 1 วัน — เพื่อเตรียมไปแข่ง Prototype Day ในวันถัดไป
 
-Repo นี้ควรอ่านเหมือนคู่มือระหว่างเรียน: เปิดดูตามลำดับ, ทำทีละช่วง, แล้วเช็คว่า repo ทีมของคุณมีหลักฐานครบตามที่ต้องส่ง
+Repo นี้ควรอ่านเหมือนคู่มือระหว่างเรียน: เปิดดูตามลำดับ, ทำทีละช่วง, แล้วเช็กว่า repo ทีมมีหลักฐานครบตามที่ต้องส่ง
 
 ### 🎯 เป้าหมายการเรียนรู้
 
@@ -44,7 +44,7 @@ Repo นี้ควรอ่านเหมือนคู่มือระห
 
 ```
 coding-thailand-edge-ai-workshop/
-├── README.md                          ← คุณอยู่ที่นี่
+├── README.md                          ← ตอนนี้อ่านอยู่ที่นี่
 ├── docs/                              ← เอกสารหลัก
 │   ├── 01-schedule.md                 ← Timeline 6 ชม.
 │   ├── 02-tracks.md                   ← 4 Tracks ให้เลือก
@@ -74,7 +74,7 @@ coding-thailand-edge-ai-workshop/
 
 ## 🚀 เริ่มตรงนี้ (สำหรับนักเรียน)
 
-ถ้าคุณเพิ่งเข้ามาใน workshop นี้ ให้ทำตามลำดับนี้:
+ถ้าเพิ่งเข้ามาใน workshop นี้ ให้ทำตามลำดับนี้:
 
 1. ดู [Timeline วันนี้](docs/01-schedule.md) เพื่อรู้ว่าช่วงไหนต้องทำอะไร
 2. เลือก [Track ของทีม](docs/02-tracks.md) ให้เหมาะกับเวลาที่มีและความถนัดของทีม
@@ -86,7 +86,7 @@ coding-thailand-edge-ai-workshop/
 
 ถ้าติดขัดระหว่างทาง ให้เปิด [Troubleshooting Guide](docs/05-troubleshooting.md) ก่อนเรียก TA
 
-## ✅ ก่อนจบวัน ทีมคุณควรมี
+## ✅ ก่อนจบวัน ทีมควรมี
 
 - [ ] Dataset ที่ใช้ train (อยู่ใน `dataset/` หรือ link Edge Impulse project)
 - [ ] Model V1 และ V2 (export จาก Edge Impulse)

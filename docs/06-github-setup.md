@@ -20,11 +20,11 @@
 
 ### Option B: ใช้ repo ที่มีอยู่แล้วเป็นฐาน
 
-ถ้าคุณมี workshop repo อยู่แล้ว ให้ push เพิ่มเติมจากเครื่องของคุณเข้า repo เดิมได้เลย
+ถ้ามี workshop repo อยู่แล้ว ให้ push เพิ่มเติมจากเครื่องที่ใช้อยู่เข้า repo เดิมได้เลย
 
 ---
 
-## Step 2: Push Repo จากเครื่องคุณ
+## Step 2: Push Repo จากเครื่องที่ใช้อยู่
 
 ```bash
 # เข้า folder
@@ -65,7 +65,7 @@ git push -u origin main
 4. หน้า General → ติ๊ก ☑ **Template repository**
 5. Save
 
-วิธีนี้เหมาะถ้าคุณจะใช้ workshop นี้หลายรอบและอยากให้ onboarding เร็วขึ้น
+วิธีนี้เหมาะถ้าจะใช้ workshop นี้หลายรอบและอยากให้ onboarding เร็วขึ้น
 
 ---
 
@@ -144,7 +144,7 @@ gh repo create demo-team --public --clone
 
 ## ⚙️ Optional: GitHub Classroom
 
-ถ้าคุณสะดวกใช้ GitHub Classroom (เหมาะกับ workshop ใหญ่ >20 ทีม):
+ถ้าสะดวกใช้ GitHub Classroom (เหมาะกับ workshop ใหญ่ >20 ทีม):
 
 1. ไป https://classroom.github.com
 2. Create organization → Create classroom

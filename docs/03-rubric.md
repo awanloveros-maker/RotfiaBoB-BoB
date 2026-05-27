@@ -119,7 +119,7 @@
 ## 🔍 เช็กตัวเองก่อนส่ง
 
 ### ใน GitHub repo ของทีมควรมี:
-- [ ] Commit history (จำนวน, ช่วงเวลา, คุณภาพ commit message)
+- [ ] Commit history (จำนวน, ช่วงเวลา, ความชัดของ commit message)
 - [ ] Contributors graph (ทุกคนมี commit ไหม)
 - [ ] Pull requests / Issues (มี collaboration ไหม)
 - [ ] README + docs ครบไหม
@@ -144,4 +144,4 @@
 - ❌ คนเดียวทำทั้งทีม
 - ❌ Train accuracy 99% แต่ใช้จริงไม่ได้ (overfitting)
 
-สรุปแบบสั้นที่สุด: ถ้าทีมคุณอธิบายการตัดสินใจได้, มีหลักฐานใน repo, และ iterate จากผลทดสอบจริง คะแนนจะมาง่ายกว่าการไล่ accuracy อย่างเดียว
+สรุปแบบสั้นที่สุด: ถ้าทีมอธิบายการตัดสินใจได้, มีหลักฐานใน repo, และ iterate จากผลทดสอบจริง คะแนนจะมาง่ายกว่าการไล่ accuracy อย่างเดียว

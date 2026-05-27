@@ -5,7 +5,7 @@
 
 > **25 สไลด์ สำหรับวิทยากร** — ใช้กับช่วง opening (09:00-09:30) + transitions
 >
-> ไฟล์นี้คือ structure ให้คุณนำไปสร้าง slide จริงใน Canva/PowerPoint/Google Slides
+> ไฟล์นี้คือ structure สำหรับนำไปสร้าง slide จริงใน Canva/PowerPoint/Google Slides
 
 ---
 
@@ -30,7 +30,7 @@ Welcome! 🎉
 1. มีคำถาม → ยกมือ ไม่ต้องรอ
 2. ทำงานเป็นทีม — ไม่ใช่แข่งกันคนเดียว
 3. ใช้เครื่องมือสมัยใหม่ — Git, Edge Impulse, AI helpers ได้ แต่อ้างอิงให้ชัด
-4. ตั้งใจตลอด → 30 คะแนนรอคุณ
+4. ตั้งใจตลอด → 30 คะแนนรออยู่
 ```
 
 ---
@@ -99,7 +99,7 @@ Pipeline ใน 4 ขั้นตอน:
 ### Slide 7: Today's Goal
 
 ```
-จบวันนี้ ทีมคุณจะมี:
+จบวันนี้ ทีมจะมี:
 
 ✅ AI model V1 + V2 (improved)
 ✅ Deploy บน UNO Q ทำงานจริง
@@ -271,7 +271,7 @@ UNO Q → Movement → Pixels → Buzzer
 ### Slide 18: AI Bias — เรื่องที่ต้องระวัง
 
 ```
-ถ้าคุณเก็บข้อมูล...
+ถ้าเก็บข้อมูล...
 
 ✗ Class A: ในห้องสว่าง
 ✗ Class B: ในห้องมืด
@@ -399,7 +399,7 @@ Submission Checklist:
 ⏰ Day 2 (พรุ่งนี้): Prototyping
 ⏰ Day 3: Pitching (Student-Led!)
 
-ขอบคุณครับ/ค่ะ 🙏
+ลุยต่อ Day 2 กันครับ/ค่ะ 🙏
 ```
 
 ---

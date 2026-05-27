@@ -170,7 +170,7 @@ Validation accuracy: 90.0%
 **สาธิต Edge cases (สำคัญ!):**
 4. ทำท่าครึ่งๆ กลางๆ → ดูว่า model confused
 5. ทำท่าเร็วมาก → ดูว่า model handle ได้ไหม
-6. ส่งให้ผู้เข้าร่วม 1 คนลอง → "ของคุณใช้ได้ไหม?"
+6. ส่งให้ผู้เข้าร่วม 1 คนลอง → "อันนี้ใช้ได้ไหม?"
 
 ```
 [วิทยากรพูด]
@@ -188,8 +188,8 @@ Validation accuracy: 90.0%
 
   Data → Train → Deploy → Test → Iterate
 
-แต่คุณจะทำ project ของคุณเอง — ไม่ใช่ gesture wand
-เลือก track เลือกโจทย์ของคุณเอง"
+แต่ละทีมจะทำ project ของตัวเอง — ไม่ใช่ gesture wand
+เลือก track เลือกโจทย์ของทีมเอง"
 ```
 
 → Transition ไป Slide 11 (Pipeline Summary)

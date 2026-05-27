@@ -3,7 +3,7 @@
 
 # 🎯 4 Tracks ให้ทีมเลือก
 
-> **Theme กลาง:** *"AI for Daily Life — สอน AI ให้มอง/ฟัง/รู้สึก สิ่งรอบตัวคุณ"*
+> **Theme กลาง:** *"AI for Daily Life — สอน AI ให้มอง/ฟัง/รู้สึก สิ่งรอบตัวเรา"*
 
 แต่ละทีมเลือก **1 Track** + เลือกระดับความท้าทาย (Basic / Intermediate / Advanced)
 
