@@ -10,14 +10,14 @@
 
 | # | อุปกรณ์ | จำนวน | ได้รับ | สภาพโอเค |
 |---|---------|:-----:|:------:|:--------:|
-| 1 | Arduino **UNO Q** | 1 | [ ] | [ ] |
-| 2 | **Modulino** (7 ตัว: Movement, Distance, Thermo, Buttons, Knob, Pixels, Buzzer) | 7 | [ ] | [ ] |
-| 3 | สาย **Qwiic** (เชื่อม Modulino) | ___ | [ ] | [ ] |
-| 4 | สาย **USB-C** (เชื่อมบอร์ด ↔ คอม) | 1 | [ ] | [ ] |
-| 5 | **Adapter USB-C** (จ่ายไฟ 5V/3A) | 1 | [ ] | [ ] |
-| 6 | **Powered USB hub** (มีสายไฟเลี้ยง) | 1 | [ ] | [ ] |
-| 7 | **USB Webcam** | 1 | [ ] | [ ] |
-| 8 | **USB Mic** | 1 | [ ] | [ ] |
+| 1 | Arduino **UNO Q** | 1 | [ Yes ] | [ Yes ] |
+| 2 | **Modulino** (7 ตัว: Movement, Distance, Thermo, Buttons, Knob, Pixels, Buzzer) | 7 | [ Yes ] | [ Yes ] |
+| 3 | สาย **Qwiic** (เชื่อม Modulino) | 7 | [ Yes ] | [ Yes ] |
+| 4 | สาย **USB-C** (เชื่อมบอร์ด ↔ คอม) | 1 | [ Yes ] | [ Yes ] |
+| 5 | **Adapter USB-C** (จ่ายไฟ 5V/3A) | 1 | [ Yes ] | [ Yes ] |
+| 6 | **Powered USB hub** (มีสายไฟเลี้ยง) | 1 | [ Yes ] | [ Yes ] |
+| 7 | **USB Webcam** | 1 | [ Yes ] | [ Yes ] |
+| 8 | **USB Mic** | 1 | [ Yes ] | [ Yes ] |
 
 **ของที่ขาด / เสีย (ถ้ามี):** _______________
 
